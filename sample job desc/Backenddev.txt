@@ -1,0 +1,28 @@
+Shape the future of the web: Contribute to Wix's mission of empowering everyone to create a stunning online presence.
+Work on cutting-edge technologies: Utilize your skills in a dynamic environment with leading-edge backend frameworks and tools.
+Tackle complex challenges: Solve real-world problems at a massive scale, handling over 500 billion HTTP requests daily.
+Make a real difference: Your code directly impacts millions of users worldwide.
+Become an industry leader: Learn from top-notch engineers and contribute to Wix's position at the forefront of web development.
+Responsibilities:
+
+Design, develop, and implement robust, scalable backend systems.
+Collaborate with cross-functional teams (product, frontend, infrastructure) to deliver exceptional features.
+Apply best practices for code readability, maintainability, and testability (TDD, clean code).
+Debug and troubleshoot production issues to ensure a seamless user experience.
+Continuously learn and stay updated on the latest backend technologies.
+Qualifications:
+
+Minimum 3+ years of experience building backend applications (web or mobile).
+Strong proficiency in a backend programming language (Java, Scala, Python preferred).
+Experience with distributed systems, databases (NoSQL, SQL), and APIs.
+Familiarity with cloud platforms and infrastructure concepts.
+Excellent problem-solving and analytical skills.
+Passion for writing clean, maintainable code.
+Effective communication and collaboration skills.
+Bonus points for:
+
+Experience with DevOps methodologies and CI/CD pipelines.
+Knowledge of containerization technologies (Docker, Kubernetes).
+Experience with message queues (Kafka, RabbitMQ).
+Familiarity with Wix's development stack (if applicable).
+

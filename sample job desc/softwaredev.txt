@@ -1,0 +1,21 @@
+Are you a passionate problem-solver with a knack for crafting innovative software solutions? Google is seeking talented Software Developers to join our team and contribute to groundbreaking projects that impact billions of users worldwide.
+
+As a Software Developer at Google, you will design, develop, and test software systems at scale. You will collaborate with cross-functional teams to build cutting-edge products and features. Your work will push the boundaries of technology and have a real-world impact.
+
+To succeed in this role, you must possess strong programming skills, a deep understanding of software engineering principles, and a passion for creating exceptional user experiences.
+
+If you are ready to tackle complex challenges and contribute to shaping the future of technology, we encourage you to apply.
+
+Responsibilities:
+
+Design, develop, and test software applications
+Collaborate with cross-functional teams to deliver high-quality products
+Optimize software for performance and scalability
+Stay up-to-date with the latest technology trends
+Qualifications:
+
+Bachelor's degree in Computer Science or related field
+Strong programming skills in languages such as Python, Java, C++
+Experience with software development methodologies
+Problem-solving and analytical skills
+Passion for technology and innovation

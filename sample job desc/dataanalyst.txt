@@ -1,0 +1,21 @@
+Job Description:
+
+As a Data Analyst, you will be responsible for collecting, cleaning, and analyzing large datasets to identify trends, patterns, and opportunities. You will collaborate with various departments to understand business requirements and translate them into actionable insights.
+
+Responsibilities:
+
+Collect, clean, and organize large datasets from various sources.
+Perform statistical analysis to identify trends, patterns, and correlations.
+Develop and maintain data models and reporting structures.
+Create visualizations and dashboards to communicate insights effectively.
+Collaborate with cross-functional teams to understand business needs and provide data-driven solutions.
+Stay up-to-date with the latest data analysis techniques and tools.
+Qualifications:
+
+Bachelor's degree in Statistics, Mathematics, Computer Science, or related field.
+Strong analytical and problem-solving skills.
+Proficiency in data analysis tools and programming languages (SQL, Python, R, etc.).
+Experience with data visualization tools (Tableau, Power BI, etc.).
+Excellent communication and presentation skills.
+Ability to work independently and as part of a team.
+If you are passionate about data and have a knack for turning numbers into stories, we encourage you to apply.
